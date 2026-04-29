@@ -35,7 +35,7 @@ requirements.txt: Lista de dependências para instalação rápida.
 Clone este repositório:
 
 Bash
-git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
+git clone https://github.com/kondrasz/Challenge-2026.git
 Certifique-se de que o arquivo best.pt está na pasta raiz do projeto.
 
 Execute o script principal:
